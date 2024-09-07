@@ -12,10 +12,10 @@ If long include a table on contents with hyperlinks
 Include any frameworks and languages you use here and hyperlink to their documentation
 ex. 
 
-* [![PyTorch]][[(https://pytorch.org/docs/stable/index.html)]
+* [PyTorch](https://pytorch.org/docs/stable/index.html
 Breif Section explain why and how you used it if applicable
 
-* [!Vue.js][https://vuejs.org/guide/introduction.html]
+* [Vue.js](https://vuejs.org/guide/introduction.html)
 
 ## Getting started
 This section explains how to download/set-up any frameworks. Please include if yo uneed a python virtual environment and how to downloads requirements
@@ -36,3 +36,9 @@ pip install -r requirements.txt
 ## Usage
 
 Show screenshots, examples, and documentation on how this code is used
+
+## Top contributers
+
+In this section you can add your name and what you contributed so that we can track who did what.
+
+You should also hve a `notes` direcotory in the repository with a log of what day it is, what changes you made to the project, issues you ran into, and how you solved them

@@ -1,1 +1,2 @@
-https://discordapp.com/channels/1277007448280137860/1284749275720585247/1423114549757743167 
+
+https://docs.google.com/presentation/d/1av-aIkKU2jXU8IR_-mXN0JW5kyaP779_40mwIFM88HQ/edit?usp=sharing 

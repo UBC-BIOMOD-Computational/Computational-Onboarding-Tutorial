@@ -11,3 +11,6 @@ Training Slides 2023
 
 
 
+## Additional Information
+- DNA Origami Lecture: https://www.youtube.com/watch?v=Ek-FDPymyyg
+- 

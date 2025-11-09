@@ -16,5 +16,9 @@ Training Slides 2023
 
 ## Additional Information
 - DNA Origami Lecture: https://www.youtube.com/watch?v=Ek-FDPymyyg
-- 
+
+Cool Papers:
+- 2018: https://pmc.ncbi.nlm.nih.gov/articles/PMC6073283/
+- 2024: https://www.pnas.org/doi/10.1073/pnas.2406769121
+
 

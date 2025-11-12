@@ -1,3 +1,10 @@
+# Mandatory
+
+## Downloading caDNAno
+Cadnano installation guide for windows: https://douglaslab.org/tutorials/files/Install-Cadnano-Windows-v3.pdf 
+Cadnano installation guide for mac: https://douglaslab.org/tutorials/files/Install-Cadnano-macOS-v4.pdf
+
+
 ## Cadnano Tutorial
 cadnano tutorial 1
 - https://www.youtube.com/watch?v=cwj-4Wj6PMc
@@ -29,6 +36,7 @@ Cool Papers - specific designs:
 - Paper 3: https://www.nature.com/articles/s41467-018-03601-5 
 - Paper 4: https://pubmed.ncbi.nlm.nih.gov/33942502/ 
 - Paper 5: https://pmc.ncbi.nlm.nih.gov/articles/PMC2898913/ 
+
 
 
 

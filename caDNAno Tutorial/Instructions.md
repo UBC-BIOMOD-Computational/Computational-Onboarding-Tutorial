@@ -16,6 +16,9 @@ cadnano tutorial 2
 Training Slides 2025
 - https://docs.google.com/presentation/d/1C38zV9amZrHnbeSY_IFHmLmV1cjAUGt_GnR8TWs_Kfc/edit?usp=sharing
 
+Training Recording 2025
+- https://youtu.be/QUywz8CRsoU
+
 Training Slides 2023
 - https://docs.google.com/presentation/d/1PlZIKn6T0_QR9OUZpw2OhNMLp6HEeJihCccDfOW2Hu4/edit?usp=sharing
 
@@ -36,6 +39,7 @@ Cool Papers - specific designs:
 - Paper 3: https://www.nature.com/articles/s41467-018-03601-5 
 - Paper 4: https://pubmed.ncbi.nlm.nih.gov/33942502/ 
 - Paper 5: https://pmc.ncbi.nlm.nih.gov/articles/PMC2898913/ 
+
 
 
 

@@ -28,7 +28,8 @@ Training Slides 2023
 
 # OPTIONAL
 - DNA Origami Lecture: https://www.youtube.com/watch?v=Ek-FDPymyyg
-
+- DNA Origami Specific Techniques to Achieve Certain Forms paper: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.201700377
+  
 Cool Papers - general overview:
 - 2018: https://pmc.ncbi.nlm.nih.gov/articles/PMC6073283/
 - 2024: https://www.pnas.org/doi/10.1073/pnas.2406769121
@@ -39,6 +40,7 @@ Cool Papers - specific designs:
 - Paper 3: https://www.nature.com/articles/s41467-018-03601-5 
 - Paper 4: https://pubmed.ncbi.nlm.nih.gov/33942502/ 
 - Paper 5: https://pmc.ncbi.nlm.nih.gov/articles/PMC2898913/ 
+
 
 
 

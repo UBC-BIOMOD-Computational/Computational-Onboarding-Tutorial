@@ -13,6 +13,9 @@ cadnano tutorial 2
 - https://www.youtube.com/watch?v=EabqNaYAI7o&t=816s
 
 ## Cadnano Training Slides
+Training Textbook 2026
+- https://openwetware.org/wiki/DNAmazingProcess
+
 Training Slides 2025
 - https://docs.google.com/presentation/d/1C38zV9amZrHnbeSY_IFHmLmV1cjAUGt_GnR8TWs_Kfc/edit?usp=sharing
 
@@ -29,6 +32,10 @@ Training Slides 2023
 # OPTIONAL
 - DNA Origami Lecture: https://www.youtube.com/watch?v=Ek-FDPymyyg
 - DNA Origami Specific Techniques to Achieve Certain Forms paper: https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.201700377
+- https://www.researchgate.net/figure/DNA-origami-folding-method-a-DNA-origami-nanostructures-are-assembled-from-the_fig1_350394664
+
+
+
   
 Cool Papers - general overview:
 - 2018: https://pmc.ncbi.nlm.nih.gov/articles/PMC6073283/

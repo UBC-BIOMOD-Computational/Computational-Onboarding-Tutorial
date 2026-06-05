@@ -17,7 +17,7 @@ Training Textbook 2026
 - https://openwetware.org/wiki/DNAmazingProcess
 
 Training Slides 2025
-- https://docs.google.com/presentation/d/1C38zV9amZrHnbeSY_IFHmLmV1cjAUGt_GnR8TWs_Kfc/edit?usp=sharing
+- https://docs.google.com/presentation/d/1B9ckJwzFO4gGk2OpIjaeLqnMuc3quWLm2GHUYyDZxkI/ 
 
 Training Recording 2025
 - https://youtu.be/QUywz8CRsoU
